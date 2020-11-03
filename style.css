@@ -1,0 +1,20 @@
+.plane{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    font-size:20px;
+    margin:25px;
+}
+.swan{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    font-size:20px;
+    margin:25px;
+}
+a:link{
+    color:black;
+}
+a:visited{
+    color:turquoise;
+}
